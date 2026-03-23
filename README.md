@@ -192,7 +192,8 @@ border-radius: 10px;
 
 <a href="#buy" class="btn">🔥 ซื้อเลยตอนนี้</a>
 <a href="https://buy.stripe.com/xxxxxx" class="btn-buy">
-🔥 ซื้อทันที
+🔥 <a href="https://buy.stripe.com/xxxxxx" class="btn-buy">
+🔥 ซื้อและดาวน์โหลดทันที
 </a>
 
 </section>
