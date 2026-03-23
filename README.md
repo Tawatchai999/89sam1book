@@ -14,9 +14,7 @@
 <p>ราคา 1,299 บาท</p>
   <a href="download.html" class="btn-buy">
 🔥 ซื้อทันที
-</a>
-<style>
-  {margin:0;font-family:Arial;background:#000;color:#fff;}
+margin:0;font-family:Arial;background:#000;color:#fff;}
 header 
   {text-align:center;padding:20px;border-bottom:1px solid gold;}
 h1
