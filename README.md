@@ -7,7 +7,8 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>89 Laws of Money Psychology</title>
+89 Laws of Money Psychology 
+89จิตวิทยาสะท้อนการศึกษาสร้างเงิน
 <h3>เล่ม 1: Psychology of Mind</h3>
 <p>10 กฎควบคุมความคิด เปลี่ยนชีวิตคุณ</p>
 <p>ราคา 1,299 บาท</p>
