@@ -25,7 +25,8 @@ input {padding:10px;width:250px;margin:10px;}
 <h1>89 Laws of Money Psychology</h1>
 <p>เปลี่ยนชีวิตด้วยจิตวิทยาการเงิน</p>
 </header>
-
+<meta name="description" content="หนังสือจิตวิทยาการเงิน 89 Laws เปลี่ยนชีวิตคุณ">
+<meta name="keywords" content="หนังสือการเงิน, พัฒนาตัวเอง, mindset">
 <section class="hero">
 <h2>🔥 ดาวน์โหลดตัวอย่างฟรี</h2>
 <input type="email" placeholder="ใส่อีเมลของคุณ">
@@ -91,3 +92,5 @@ input {padding:10px;width:250px;margin:10px;}
 
 </body>
 </html>
+<a class="btn" href="https://promptpay.io/เบอร์คุณ">จ่ายเงิน</a>
+
