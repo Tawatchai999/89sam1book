@@ -16,7 +16,6 @@
 🔥 ซื้อทันที
 </a>
 <style>
-body 
   {margin:0;font-family:Arial;background:#000;color:#fff;}
 header 
   {text-align:center;padding:20px;border-bottom:1px solid gold;}
