@@ -1,7 +1,5 @@
-
-<!DOCTYPE html>
 <h1>89 Laws of Psychology</h1>
-<p>โดย ธวัชชัย ผ่องแผ้ว</p>
+<p>โดย คุณ ธวัชชัย ผ่องแผ้ว</p>
 <div class="card">
 ความคิดของคุณวันนี้  
 กำลังสร้างชีวิตของคุณในวันพรุ่งนี้
@@ -17,24 +15,31 @@
 🔥 ซื้อทันที
 </a>
 <style>
-body {margin:0;font-family:Arial;background:#000;color:#fff;}
-header {text-align:center;padding:20px;border-bottom:1px solid gold;}
-h1 {font-size:36px;}
-.container {display:grid;grid-template-columns:repeat(auto-fit,minmax(250px,1fr));gap:20px;padding:30px;}
+body 
+  {margin:0;font-family:Arial;background:#000;color:#fff;}
+header 
+  {text-align:center;padding:20px;border-bottom:1px solid gold;}
+h1
+  {font-size:36px;}
+.container 
+  {display:grid;grid-template-columns:repeat(auto-fit,minmax(250px,1fr));gap:20px;padding:30px;}
 .card {background:#111;padding:20px;border-radius:10px;text-align:center;}
 .card img {width:100%;border-radius:10px;}
 .btn {display:inline-block;margin-top:10px;padding:10px 20px;background:gold;color:black;text-decoration:none;font-weight:bold;border-radius:6px;}
 .hero {text-align:center;padding:40px;}
 input {padding:10px;width:250px;margin:10px;}
+  
 </style>
+
 </head>
+
 <meta name="author" content="ธวัชชัย ผ่องแผ้ว">
 <body>
 
 <header>
-</style>
   
-  .reviews {
+</style>
+.reviews {
 display: grid;
 grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
 gap: 20px;
@@ -136,7 +141,7 @@ border-radius: 10px;
 </div>
 
 </section>
-<section class="section">
+class="section">
 <h2>สิ่งที่คุณจะได้</h2>
 
 <div class="card">
@@ -181,8 +186,6 @@ border-radius: 10px;
 แต่มันคือจิตวิทยา”
 </div>
 
-</div>
-
 </section>
 
 <!-- BONUS -->
@@ -208,6 +211,9 @@ border-radius: 10px;
 ถ้าคุณไม่เริ่มวันนี้</p>
 
 <a href="#buy" class="btn">🔥 ซื้อเลยตอนนี้</a>
+<a href="https://buy.stripe.com/xxxxxx" class="btn-buy">
+🔥 ซื้อทันที
+</a>
 
 </section>
 
@@ -334,7 +340,14 @@ function setLang(lang){
 <button onclick="setLang('ru')">🇷🇺</button>
 
 </div>
-
+<footer>
+<p>
+© 2026 89Sam1Book by Tawatchai Phongphaew.  
+All Rights Reserved.  
+<br>
+สงวนลิขสิทธิ์ทุกประการ ห้ามคัดลอก ดัดแปลง หรือเผยแพร่โดยไม่ได้รับอนุญาต Privacy Policy + Terms
+</p>
+</footer>
 <body>
 
 <!-- Hero Section -->
@@ -353,8 +366,6 @@ function setLang(lang){
 </div>
 </section>
 
-<!-- 👇 วางโค้ดที่ผมให้ตรงนี้ 👇 -->
-
 <!-- รีวิว -->
 <section class="section dark">
 ...
@@ -371,6 +382,7 @@ function setLang(lang){
 </section>
 
 </body>
+
 <section class="section dark">
 <h2>เสียงจากผู้อ่านทั่วโลก</h2>
 
@@ -428,7 +440,6 @@ function setLang(lang){
 ✔ รับประกันความพึงพอใจ  
 ✔ ดาวน์โหลดทันที  
 ✔ เริ่มเปลี่ยนชีวิตได้วันนี้  
-</p>
 
 <section class="section">
 <h2>คำถามที่พบบ่อย</h2>
