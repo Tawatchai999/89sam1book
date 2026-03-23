@@ -1,8 +1,15 @@
 <h1>89 Laws of Psychology</h1>
 <p>โดย คุณ ธวัชชัย ผ่องแผ้ว</p>
 <div class="card">
-ความคิดของคุณวันนี้  
-กำลังสร้างชีวิตของคุณในวันพรุ่งนี้
+ความคิดของคุณวันนี้  กำลังสร้างชีวิตของคุณในวันพรุ่งนี้
+“Fortis Fortuna Adiuvat”
+(ภาษาละติน: โชคเข้าข้างผู้กล้า)  
+1 ใน วลี ของจักรวาล หนังสือ 89 จิตวิทยา สะท้อน การศึกษา สร้างเงิน
+89 Laws of Psychology
+
+“A light born in darkness"
+      เเสงสว่างใจความมืด
+-ผู้เขียน ธวัชชัย ผ่องแผ้ว
 </div>
 <head>
 <meta charset="UTF-8">
@@ -13,19 +20,6 @@
 <p>15 กฎควบคุมความคิด เปลี่ยนชีวิตคุณ</p>
 <p>ราคา 1,299 บาท</p>
   <a href="download.html" class="btn-buy">
-🔥 ซื้อทันที
-margin:0;font-family:Arial;background:#000;color:#fff;}
-header 
-  {text-align:center;padding:20px;border-bottom:1px solid gold;}
-h1
-  {font-size:36px;}
-.container 
-  {display:grid;grid-template-columns:repeat(auto-fit,minmax(250px,1fr));gap:20px;padding:30px;}
-.card {background:#111;padding:20px;border-radius:10px;text-align:center;}
-.card img {width:100%;border-radius:10px;}
-.btn {display:inline-block;margin-top:10px;padding:10px 20px;background:gold;color:black;text-decoration:none;font-weight:bold;border-radius:6px;}
-.hero {text-align:center;padding:40px;}
-input {padding:10px;width:250px;margin:10px;}
   
 </head>
 
@@ -133,18 +127,8 @@ border-radius: 10px;
 ✔ 89 กฎจิตวิทยาเปลี่ยนชีวิต  
 ✔ ระบบความคิดเศรษฐี  
 ✔ วิธีสร้างรายได้และอิสรภาพทางการเงิน  
-✔ ใช้ได้จริงในชีวิต  
-</div>
+✔ ใช้ได้จริงในชีวิต
 
-</section>
-class="section">
-<h2>สิ่งที่คุณจะได้</h2>
-
-<div class="card">
-✔ 89 กฎจิตวิทยาเปลี่ยนชีวิต <br>
-✔ ระบบความคิดเศรษฐี <br>
-✔ วิธีสร้างรายได้และอิสรภาพทางการเงิน <br>
-✔ ใช้ได้จริงในชีวิต <br>
 </div>
 
 </section>
