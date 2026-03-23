@@ -10,7 +10,7 @@
 89 Laws of Money Psychology 
 89จิตวิทยาสะท้อนการศึกษาสร้างเงิน
 <h3>เล่ม 1: Psychology of Mind</h3>
-<p>10 กฎควบคุมความคิด เปลี่ยนชีวิตคุณ</p>
+<p>15 กฎควบคุมความคิด เปลี่ยนชีวิตคุณ</p>
 <p>ราคา 1,299 บาท</p>
   <a href="download.html" class="btn-buy">
 🔥 ซื้อทันที
@@ -27,8 +27,6 @@ h1
 .hero {text-align:center;padding:40px;}
 input {padding:10px;width:250px;margin:10px;}
   
-</style>
-
 </head>
 
 <meta name="author" content="ธวัชชัย ผ่องแผ้ว">
