@@ -326,7 +326,6 @@ function setLang(lang){
   document.getElementById("bonus").innerText = translations[lang].bonus;
 }
 
-</script>
 <div style="position:absolute;top:20px;right:20px;">
 
 <button onclick="setLang('th')">🇹🇭</button>
@@ -364,9 +363,8 @@ All Rights Reserved.
 ✔ 89 กฎจิตวิทยาเปลี่ยนชีวิต  
 ✔ ระบบความคิดเศรษฐี  
 ✔ วิธีสร้างรายได้  
-</div>
-</section>
-
+  
+ รีวิวจากลูกค้าทั่วโลก
 <!-- รีวิว -->
 <section class="section dark">
 ...
