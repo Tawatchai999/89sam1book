@@ -1,4 +1,83 @@
-<!DOCTYPE html>
+/* style.css */
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #0f172a;
+  color: white;
+  transition: 0.3s;
+}
+
+.light {
+  background: #f1f5f9;
+  color: black;
+}
+
+header {
+  text-align: center;
+  padding: 80px 20px;
+  background: linear-gradient(135deg,#1e293b,#020617);
+}
+
+h1 {
+  font-size: 40px;
+}
+
+.section {
+  max-width: 900px;
+  margin: auto;
+  padding: 40px 20px;
+}
+
+.card {
+  background: #1e293b;
+  padding: 20px;
+  margin: 20px 0;
+  border-radius: 12px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.card:hover {
+  transform: scale(1.05);
+}
+
+.btn {
+  display: inline-block;
+  padding: 12px 20px;
+  background: #38bdf8;
+  color: black;
+  border-radius: 8px;
+  text-decoration: none;
+  margin: 10px 5px;
+}
+
+.social a {
+  display: inline-block;
+  margin: 5px 10px;
+  color: #38bdf8;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+textarea {
+  width: 100%;
+  padding: 10px;
+  margin: 10px 0;
+}// script.js
+
+function toggleMode() {
+  document.body.classList.toggle("light");
+}
+
+function showPage(page) {
+  const pages = ["home", "chapters", "c1", "c2"];
+  pages.forEach(p => {
+    const el = document.getElementById(p);
+    if(el) el.style.display = "none";
+  });
+  const target = document.getElementById(page);
+  if(target) target.style.display = "block";
+}<!DOCTYPE html>
 <html lang="th">
 <head>
 <meta charset="UTF-8">
