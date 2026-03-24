@@ -1,0 +1,24 @@
+89sam1book-prod/
+│
+├── frontend/ (Vercel)
+│   ├── index.html
+│   ├── dashboard.html
+│   ├── affiliate.html
+│   ├── admin.html
+│   ├── style.css
+│   └── app.js
+│
+├── backend/ (Railway)
+│   ├── server.js
+│   ├── routes/
+│   ├── models/
+│   ├── middleware/
+│   └── package.json
+│
+├── config/
+│   ├── firebase.js
+│   ├── stripe.js
+│   └── sendgrid.js
+│
+├── .env.example
+└── README.md
