@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="th">
+<head>
+<meta charset="UTF-8">
+<title>89sam1book</title>
+<style>
+body{font-family:sans-serif;background:#0f172a;color:white;text-align:center;padding:40px;}
+.card{background:#1e293b;margin:20px;padding:20px;border-radius:10px;}
+a{color:#38bdf8;}
+</style>
+</head>
+<body>
+
+<h1>89sam1book</h1>
+<p>เข้าใจตัวเองในแบบใหม่</p>
+
+<div class="card">
+<h2>Chapter 1</h2>
+<p>ทำไมเราคิดมาก</p>
+<a href="chapter1.html">อ่านต่อ</a>
+</div>
+
+<div class="card">
+<h2>Chapter 2</h2>
+<p>วงจรของอารมณ์</p>
+<a href="chapter2.html">อ่านต่อ</a>
+</div>
+
+</body>
+</html>
